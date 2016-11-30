@@ -4,7 +4,7 @@
   "description": "kills all node.exe instances running on windows",
   "main": "index.js",
   "bin": {
-    "kill-all-node-on-windows": "index.js"
+    "kill-all-node-on-windows": "./index.js"
   },
   "repository": {
     "type": "git",
