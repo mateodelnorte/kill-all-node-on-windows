@@ -1,11 +1,12 @@
 {
   "name": "kill-all-node-on-windows",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "kills all node.exe instances running on windows",
   "main": "index.js",
   "bin": {
     "kill-all-node-on-windows": "./index.js"
   },
+  "main": "./index.js",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/mateodelnorte/kill-all-node-on-windows.git"
