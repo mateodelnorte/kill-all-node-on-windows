@@ -3,8 +3,8 @@
   "version": "0.0.0",
   "description": "kills all node.exe instances running on windows",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "bin": {
+    "kill-all-node-on-windows": "index.js"
   },
   "repository": {
     "type": "git",
